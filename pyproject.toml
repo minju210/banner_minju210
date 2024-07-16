@@ -17,3 +17,7 @@ show-banner = 'banner_minju210.banner:show'
 
 [tool.pdm]
 distribution = true
+
+[project.urls]
+Homepage = "https://github.com/minju210/banner_minju210"
+Issues = "https://github.com/minju210/banner_minju210/issues"
